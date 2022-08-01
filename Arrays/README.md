@@ -1,6 +1,6 @@
 ## My Session @ ICPC SCU
 
-* [Arrays](https://www.youtube.com/watch?v=gPS2kFoxxf8&t=20s)
+- [Arrays](https://www.youtube.com/watch?v=gPS2kFoxxf8&t=20s)
 
 ## Useful Materials
 ### Video Materials
