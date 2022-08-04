@@ -1,5 +1,6 @@
 ## My Session @ ICPC SCU
 
+- [Two Pointers Technique](https://youtu.be/uplty7GJ9qg)
 
 ## Useful Materials
 
