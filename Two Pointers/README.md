@@ -24,4 +24,4 @@
 
 ## Practice Problems
 
-- [Two Pointers Sheet (ICPC SCU)](https://codeforces.com/group/KQlzWufN6x/contest/376256)
+- [Two Pointers Sheet (ICPC SCU)](https://codeforces.com/group/KQlzWufN6x/contests)
