@@ -4,7 +4,7 @@
 
 ## Useful Materials
 
-> I strongly recommend starting with **CodeForces EDU** section
+> I highly recommend starting with **CodeForces EDU** section
 
 - [Two Pointers (CodeForces EDU)](https://codeforces.com/edu/course/2/lesson/9)
 
