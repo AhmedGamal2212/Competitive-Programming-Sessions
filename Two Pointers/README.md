@@ -4,7 +4,7 @@
 
 ## Useful Materials
 
-> I strongly recommend starting with **CodeForces EDU** section
+> I highly recommend starting with **CodeForces EDU** section
 
 - [Two Pointers (CodeForces EDU)](https://codeforces.com/edu/course/2/lesson/9)
 
@@ -24,4 +24,4 @@
 
 ## Practice Problems
 
-- [Two Pointers Sheet (ICPC SCU)](https://codeforces.com/group/KQlzWufN6x/contest/376256)
+- [Two Pointers Sheet (ICPC SCU)](https://codeforces.com/group/KQlzWufN6x/contests)
