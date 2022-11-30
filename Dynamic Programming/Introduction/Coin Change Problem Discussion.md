@@ -47,7 +47,7 @@ public:
 
 This solution is wrong becuase the idea of taking modulo means that each time we decide to pick a coin with some value, we're taking as many coins as we can, and then calling the function with the remainder after these operations.  
 
-For example: if we currently have the total amount equals to 5, and we decide to choose a coin with value , we have to take 2 coins and make a call with the remainder which equals to 1 (while this may not be the optimal answer and we need to take only one coin with value 2)
+For example: if we currently have the total amount equals to 5, and we decide to choose a coin with value 2, we have to take 2 coins and make a call with the remainder which equals to 1 (while this may not be the optimal answer and we need to take only one coin with value 2)
 
 
 ### Solution 2 (Time Limit Exceeded):
