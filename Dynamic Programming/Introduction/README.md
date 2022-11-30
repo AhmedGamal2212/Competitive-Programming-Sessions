@@ -1,7 +1,7 @@
 ## My Session @ ICPC SCU
 
 > - You can start from **8:00** if you like to skip the introduction  
-> - You can find my explanation, solution, and discussion for coin change problem discussed in the session [here]() (because I think I didn't explain it in the right way)
+> - You can find my explanation, solution, and discussion for coin change problem discussed in the session [here](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/blob/master/Dynamic%20Programming/Introduction/Coin%20Change%20Problem%20Discussion.md) (because I think I didn't explain it in the right way)
 - [Dynamic Programming](https://www.youtube.com/watch?v=5zyMGXmYDJg&lc=UgxSFnz0WBTKLQluvNx4AaABAg)
 
 
