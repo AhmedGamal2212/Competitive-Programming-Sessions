@@ -90,7 +90,7 @@ public:
 
 ```
 
-This solution gives us a correct answer, but exceeds the time limit for the problem because of the internal loop which checks for the number of coins we need to pick with this value. After many such calls with big values of Total Amound and small values of Coins, this will exceed the limit and our solution will not pass.
+This solution gives us a correct answer, but exceeds the time limit for the problem because of the internal loop which checks for the number of coins we need to pick with this value. After many such calls with big values of Total Amount and small values of Coins, this will exceed the limit and our solution will not pass.
 
 
 ### Solution 3 (Accepted):
