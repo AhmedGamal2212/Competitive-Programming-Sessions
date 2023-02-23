@@ -1,4 +1,4 @@
-# Binary Search in Competitive Programming
+# Binary Search
 
 Binary search is a fundamental algorithmic technique commonly used in competitive programming. It is a search algorithm that works on sorted arrays or lists by repeatedly dividing the search interval in half.
 
