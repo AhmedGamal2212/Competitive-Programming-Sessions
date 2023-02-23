@@ -1,4 +1,4 @@
-# Arrays in Competitive Programming
+# Arrays
 
 Arrays are one of the most commonly used data structures in programming and competitive programming. An array is a data structure that stores a collection of elements, each identified by an index. Arrays can be one-dimensional, two-dimensional, or even multi-dimensional.
 
