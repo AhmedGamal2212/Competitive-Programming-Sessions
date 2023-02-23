@@ -70,4 +70,4 @@ Dynamic programming is a powerful technique that can be used to solve a wide ran
 
 ## Dynamic Programming Topics Covered So Far
 -   [Dynamic Programming: Introduction](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Dynamic%20Programming/Introduction)
--   [Dynamic Programming: Subsets, Counting, and Longest Increasing Subsequence (LIS)](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Dynamic%20Programming/Subsets%20-%20LIS%20-%20Counting)
+-   [Dynamic Programming: Subsets, Counting, and Longest Increasing Subsequence (LIS)](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Dynamic%20Programming/Subsets%2C%20LIS%2C%20Counting)
