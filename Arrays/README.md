@@ -6,10 +6,11 @@ Arrays are useful for solving many problems, particularly in competitive program
 
 In competitive programming, arrays are used to store information about the problem being solved, such as the input data or the solution. Arrays are also often used to store intermediate results during the execution of an algorithm or to store the solution once it is found.
 
-<hr>
 
 **And we are here to learn them in practice and get benefit of using them.**  
 **Enjoy Arrays!**
+
+<hr>
 
 ## My Session @ ICPC SCU
 
