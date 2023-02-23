@@ -1,3 +1,13 @@
+# Dynamic Programming: Introduction
+
+As we said before, Dynamic programming is a method of solving complex problems by breaking them down into simpler subproblems.  
+
+It is a powerful technique for optimizing complex problems by decomposing them into subproblems that can be solved independently and then combining the solutions of these subproblems to get the solution to the original problem. Also, it can be used to solve optimization problems, such as finding the shortest path between two points or the most efficient way to allocate resources.  
+
+It is also used to solve problems where the same subproblem is solved multiple times, such as finding the most efficient way to turn a knapsack of items into a profit. Dynamic programming can also be used to solve recursive problems, such as finding the nth number in a Fibonacci sequence.
+
+<hr>
+
 ## My Session @ ICPC SCU
 
 > - You can start from **8:00** if you like to skip the introduction  
