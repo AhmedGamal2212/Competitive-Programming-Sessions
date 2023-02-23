@@ -1,3 +1,14 @@
+# Arrays in Competitive Programming
+
+Arrays are one of the most commonly used data structures in programming and competitive programming. An array is a data structure that stores a collection of elements, each identified by an index. Arrays can be one-dimensional, two-dimensional, or even multi-dimensional.
+
+Arrays are useful for solving many problems, particularly in competitive programming. Arrays can be used to store and retrieve elements quickly and efficiently, and can be used to create complex data structures such as graphs. Arrays are also often used in algorithms such as sorting, searching, and pattern matching.
+
+In competitive programming, arrays are used to store information about the problem being solved, such as the input data or the solution. Arrays are also often used to store intermediate results during the execution of an algorithm or to store the solution once it is found.
+
+**And we are here to learn them in practice and get benefit of using them.**  
+**Enjoy Arrays!**
+
 ## My Session @ ICPC SCU
 
 - [Arrays](https://www.youtube.com/watch?v=gPS2kFoxxf8&t=20s)
