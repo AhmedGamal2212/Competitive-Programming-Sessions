@@ -1,5 +1,5 @@
 
-# Data Types and Conditions in Competitive Programming
+# Data Types and Conditions
 
 ## Data Types
 
