@@ -1,3 +1,24 @@
+
+# Basic Math and Number Theory
+
+Math and number theory are important components of competitive programming, as they provide an important foundation for understanding and solving programming problems. Math and number theory can be used to solve problems related to algorithms, data structures, and other areas of computer science. Math and number theory can be used to develop efficient algorithms, analyze data structures, and understand the underlying principles behind problem-solving. They are also relevant to game theory, cryptography, and other areas of computer science. Math and number theory provide the necessary skills and knowledge to solve complex problems, and are essential for success in competitive programming.
+
+This repository includes materials for learning and understanding basic math and number theory concepts. The topics covered in this repository include, but are not limited to:
+
+-   Introduction to Number Theory
+-   Divisibility Rules
+-   Perfect Squares
+-   Logarithm Basics
+-   Binary Exponentiation
+-   Euclidean Algorithm to find the GCD
+-   Fibonacci Numbers
+-   Primality Tests
+-   Sieve of Eratosthenes
+-   Modular Arithmetic
+-   LCM
+-   Factorials
+
+
 ## My Session @ ICPC SCU
 - [Basic Math & Number Theory: Part 1](https://www.youtube.com/watch?v=UaVq66jUhyc&t=2552s)
 
