@@ -1,4 +1,4 @@
-# Bit Manipulation in Competitive Programming
+# Bit Manipulation
 
 ## Introduction
 
