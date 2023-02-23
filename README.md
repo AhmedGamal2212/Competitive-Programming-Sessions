@@ -6,15 +6,15 @@ This repository contains recorded sessions, detailed explanations, and practice 
 
 The following topics are covered extensively in this repository:
 
--   Arrays
--   Data Types and Conditions
--   Basic Math and Number Theory
--   Two Pointers
--   Binary Search
--   Bits Manipulation
--   Recursion
--   Backtracking
--   Dynamic Programming: Introduction, Subsets, Counting, and Longest Increasing Subsequence (LIS)
+-   [Arrays](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Arrays)
+-   [Data Types and Conditions](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Data%20Types%20%26%20Conditions)
+-   [Basic Math and Number Theory](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Basic%20Math%20%26%20Number%20Theory)
+-   [Two Pointers](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Two%20Pointers)
+-   [Binary Search](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Binary%20Search)
+-   [Bits Manipulation](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Bits%20Manipulation)
+-   [Recursion and Backtracking](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Recursion%20%26%20Backtracking)
+-   [Dynamic Programming: Introduction](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Dynamic%20Programming/Introduction)
+-   [Dynamic Programming: Subsets, Counting, and Longest Increasing Subsequence (LIS)](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Dynamic%20Programming/Subsets%20-%20LIS%20-%20Counting)
 
 ## Getting Started
 
