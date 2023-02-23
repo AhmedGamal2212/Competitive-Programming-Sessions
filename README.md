@@ -1,4 +1,4 @@
-# Welcome to Competitive Programming Online Sessions
+# Welcome to Competitive Programming Sessions
 
 This repository contains recorded sessions, detailed explanations, and practice problems for various topics in competitive programming. With this resource, you can improve your problem-solving skills and become a better competitive programmer. The materials provided in this repository are designed to help you understand the concepts and teach you how to apply them to solve problems.
 
