@@ -19,6 +19,12 @@ This repository includes materials for learning and understanding basic math and
 -   Factorials
 
 
+**And we are here to learn them in practice and get benefit of using them.**  
+**Enjoy Math and Number Theory!**
+
+<hr>
+
+
 ## My Session @ ICPC SCU
 - [Basic Math & Number Theory: Part 1](https://www.youtube.com/watch?v=UaVq66jUhyc&t=2552s)
 
