@@ -24,7 +24,7 @@ Understanding data types and conditions is essential in competitive programming 
 
 
 **And we are here to learn them in practice and get benefit of using them.**  
-**Enjoy Arrays!**
+**Enjoy Data Types and Conditions!**
 
 <hr>
 
