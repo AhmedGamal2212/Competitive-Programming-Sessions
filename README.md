@@ -16,6 +16,8 @@ The following topics are covered extensively in this repository:
 
 -   [Dynamic Programming](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Dynamic%20Programming)
 
+-   [Graph Theory](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Graph%20Theory)
+
 ## Getting Started
 
 To get started, clone this repository to your local machine using this command:
