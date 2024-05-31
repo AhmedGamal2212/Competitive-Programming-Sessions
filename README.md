@@ -6,7 +6,7 @@ This repository contains recorded sessions, detailed explanations, and practice 
 
 The following topics are covered extensively in this repository:
 
-- [Time Complexity](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/)
+- [Time Complexity](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Time%20Complexity)
 -   [Arrays](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Arrays)
 -   [Data Types and Conditions](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Data%20Types%20%26%20Conditions)
 -   [Basic Math and Number Theory](https://github.com/AhmedGamal2212/Competitive-Programming-Sessions/tree/master/Basic%20Math%20%26%20Number%20Theory)
